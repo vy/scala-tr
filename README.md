@@ -16,7 +16,7 @@ Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıda
 
 - [2013-01-29] **[İstanbul HackerSpace](http://istanbulhs.org/) 2. Scala Atölyesi**
 
-  Sunum Trabzon'dan Mehmet Ali Gözaydın ([@kubidik](https://twitter.com/kubudik)) ve Ankara'dan Fehmi Can Sağlam ([@fehmicans](https://twitter.com/fehmicansaglam)] tarafından Google Hangouts üzerinde gerçekleştirildi, [İstanbul HackerSpace](http://istanbulhs.org/)'ten de [2. Scala Atölyesi](https://istanbulhs.org/scala-atolyesi-2/) başlığı altında izlendi. Sunumda Play Framework'ün 2. sürümü ile birlikte gelen yeni özellikler tartışıldı. Sunumun YouTube kaydına [buradan](http://youtu.be/ALIewzHDcWc) ulaşabilirsiniz.
+  Sunum Trabzon'dan Mehmet Ali Gözaydın ([@kubudik](https://twitter.com/kubudik)) ve Ankara'dan Fehmi Can Sağlam ([@fehmicansaglam](https://twitter.com/fehmicansaglam)] tarafından Google Hangouts üzerinde gerçekleştirildi, [İstanbul HackerSpace](http://istanbulhs.org/)'ten de [2. Scala Atölyesi](https://istanbulhs.org/scala-atolyesi-2/) başlığı altında izlendi. Sunumda Play Framework'ün 2. sürümü ile birlikte gelen yeni özellikler tartışıldı. Sunumun YouTube kaydına [buradan](http://youtu.be/ALIewzHDcWc) ulaşabilirsiniz.
 
 - [2013-01-13] **[İstanbul HackerSpace](http://istanbulhs.org/) 1. Scala Atölyesi**
 
