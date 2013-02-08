@@ -12,7 +12,7 @@ Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıda
 
 - [2013-02-07] **Google Hangouts Buluşması**
 
-  Sunum Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) tarafından yapıldı. Yaklaşık 45 dakikalık süre zarfında (kısa bir implicit classes girizgahı ile) string interpolation, streams, regular expressions, process execution konularından bahsedildi. Sunum belgelerine [ODT](tree/master/doc/20130207-strinterpol+streams+regex+proc.odp) ve [PDF](tree/master/doc/20130207-strinterpol+streams+regex+proc.pdf) olarak ulaşabilirsiniz.
+  Sunum Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) tarafından yapıldı. Yaklaşık 45 dakikalık süre zarfında (kısa bir implicit classes girizgahı ile) string interpolation, streams, regular expressions, process execution konularından bahsedildi. Sunum belgelerine [ODT](doc/20130207-strinterpol+streams+regex+proc.odp) ve [PDF](doc/20130207-strinterpol+streams+regex+proc.pdf) olarak ulaşabilirsiniz.
 
 - [2013-01-29] **[İstanbul HackerSpace](http://istanbulhs.org/) 2. Scala Atölyesi**
 
