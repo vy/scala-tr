@@ -10,6 +10,10 @@ Google Groups altında etkin olarak kullanmakta olduğumuz, katılımın herkese
 
 Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıdaki listeden ulaşabilirsiniz.
 
+- [2013-02-17] **Ankara NoSQL Topluluğu**
+  
+  Sunum Çağdaş Şenol ([@csenol](https://twitter.com/csenol)) tarafından yapıldı. 1 Saat civarı süren sunumda List Processing üzerinden Stream processing anlatıldı. Örnekler Play in Iteratee leri uzerinden verildi. Sunum a ve örnek kodlara  ([buradan](https://github.com/csenol/iter-miter)) ulaşabilirsiniz. 
+
 - [2013-02-07] **Google Hangouts Buluşması**
 
   Sunum Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) tarafından yapıldı. Yaklaşık 45 dakikalık süre zarfında (kısa bir implicit classes girizgahı ile) string interpolation, streams, regular expressions, process execution konularından bahsedildi. Sunum belgelerine [ODT](doc/20130207-strinterpol+streams+regex+proc.odp) ve [PDF](doc/20130207-strinterpol+streams+regex+proc.pdf) olarak ulaşabilirsiniz.
