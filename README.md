@@ -12,7 +12,7 @@ Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıda
 
 - [2013-02-17] **Ankara NoSQL Topluluğu**
   
-  Sunum Çağdaş Şenol ([@csenol](https://twitter.com/csenol)) tarafından yapıldı. 1 Saat civarı süren sunumda List Processing üzerinden Stream processing anlatıldı. Örnekler Play in Iteratee leri uzerinden verildi. Sunum a ve örnek kodlara  ([buradan](https://github.com/csenol/iter-miter)) ulaşabilirsiniz. 
+  Sunum Çağdaş Şenol ([@csenol](https://twitter.com/csenol)) tarafından yapıldı. 1 Saat civarı süren sunumda List Processing üzerinden Stream processing anlatıldı. Örnekler Play in Iteratee leri uzerinden verildi. Sunum a ve örnek kodlara  [buradan](https://github.com/csenol/iter-miter) ulaşabilirsiniz. Hangout videosu [burada](http://www.youtube.com/watch?feature=player_detailpage&v=KDQWiTc6gOE#t=7306s)
 
 - [2013-02-07] **Google Hangouts Buluşması**
 
