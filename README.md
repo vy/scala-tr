@@ -10,6 +10,10 @@ Google Groups altında etkin olarak kullanmakta olduğumuz, katılımın herkese
 
 Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıdaki listeden ulaşabilirsiniz.
 
+- [2013-04-05] ** OYGL 2013, "Neden Scala?" Semineri**
+
+  Seminer Scala Türkiye ekibinden Çağdaş Şenol ([@csenol](https://twitter.com/csenol)), Fehmi Can Sağlam ([@fehmicansaglam](https://twitter.com/fehmicansaglam)), Mehmet Ali Gözaydın ([@kubudik](https://twitter.com/kubudik)) ve Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) ile gerçekleştirildi. Seminerde _Neden Scala?_ sorusuna cevap aranırken, Nokta'dan Erdem Ağaoğlu ([@agaoglu](https://twitter.com/agaoglu)) ve İletken/SocialWire/VNGRS co-founder'larından Deniz Oktar ([@denizoktar](https://twitter.com/denizoktar)) Scala kullanan firmalar olarak sunum yaptılar.
+
 - [2013-02-17] **Ankara NoSQL Topluluğu MongoDB ve Scala Workshop**
   
   Sunum Çağdaş Şenol ([@csenol](https://twitter.com/csenol)) tarafından yapıldı. 1 Saat civarı süren sunumda List Processing üzerinden Stream processing anlatıldı. Örnekler Play in Iteratee leri uzerinden verildi. Sunum a ve örnek kodlara  [buradan](https://github.com/csenol/iter-miter) ulaşabilirsiniz. Hangout videosu [burada](http://www.youtube.com/watch?feature=player_detailpage&v=KDQWiTc6gOE#t=7306s)
